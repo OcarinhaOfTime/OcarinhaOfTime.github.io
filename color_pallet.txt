@@ -1,0 +1,4 @@
+red : E00000FF
+dark red: 5C0204FF
+dark: 290505FF
+white red: E6AFABFF
